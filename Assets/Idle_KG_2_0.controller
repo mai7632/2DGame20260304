@@ -87,7 +87,7 @@ BlendTree:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Blend Tree
+  m_Name: "\u901F\u5EA6"
   m_Childs:
   - serializedVersion: 2
     m_Motion: {fileID: 7400000, guid: 4e9ddfb103690c5419a5e9219c551740, type: 2}
@@ -105,7 +105,7 @@ BlendTree:
     m_CycleOffset: 0
     m_DirectBlendParameter: Blend
     m_Mirror: 0
-  m_BlendParameter: Blend
+  m_BlendParameter: "\u901F\u5EA6"
   m_BlendParameterY: Blend
   m_MinThreshold: 0
   m_MaxThreshold: 1
@@ -143,7 +143,7 @@ AnimatorController:
   m_Name: Idle_KG_2_0
   serializedVersion: 5
   m_AnimatorParameters:
-  - m_Name: Blend
+  - m_Name: "\u901F\u5EA6"
     m_Type: 1
     m_DefaultFloat: 0
     m_DefaultInt: 0
